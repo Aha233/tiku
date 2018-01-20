@@ -1,1 +1,2 @@
-# tiku
+# 题库
+for NOI use
